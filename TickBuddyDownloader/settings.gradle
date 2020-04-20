@@ -1,0 +1,2 @@
+rootProject.name='TickBuddy Downloader'
+include ':app'
